@@ -1,0 +1,15 @@
+{
+  "name": "space-shooter",
+  "version": "1.0.0",
+  "description": "A simple 3D space shooter using Three.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server ."
+  },
+  "author": "Codey Code Lab",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.158.0",
+    "http-server": "^14.1.1"
+  }
+}
